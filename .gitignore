@@ -1,3 +1,5 @@
+# Adding .zip files
+*.zip
 # Adding .DS_Store
 .DS_Store
 # Adding config.js
